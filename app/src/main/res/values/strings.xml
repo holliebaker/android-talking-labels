@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Labels</string>
+    <string name="msg_welcome">Welcome to talking labels!</string>
+    <string name="label_button_add">New Label</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_item_details">Description</string>
 </resources>
